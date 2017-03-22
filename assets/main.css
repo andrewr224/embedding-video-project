@@ -184,8 +184,8 @@ section {
 }
 
 section #video {
-	background-color: IndianRed;
 	height: 480px;
+	text-align: center;
 }
 
 /* channel and video description */
